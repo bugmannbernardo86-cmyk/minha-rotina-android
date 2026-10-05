@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsumoApiRest</string>
+    <string name="carro">Adicionar</string>
+    <string name="layout_name">Minha Rotina</string>
+    <string name="estrada_name">Digite uma atividade</string>
+    <string name="casa_name">Nenhuma Atividade Cadastrada</string>
+    <string name="rua_name">Limpar</string>
+</resources>
